@@ -5,3 +5,5 @@ langchain-google-genai
 python-dotenv
 langgraph==0.3.21
 grandalf
+langchain-groq
+langgraph-checkpoint-sqlite
